@@ -420,3 +420,9 @@ body {
 .paragraph-color-gray {
   color: #777778 !important;
 }
+
+.l-center-start {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
